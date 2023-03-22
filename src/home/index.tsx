@@ -1,3 +1,9 @@
+import { Community } from "./Community";
+import { Customers } from "./Customers";
+import { Hero } from "./Hero";
+import { RpgSystem } from "./RpgSystem";
+import { Features } from "./features";
+import Sponsor from "./Sponsor";
 import styles from "./hero.module.css";
 import { fetchGuild } from "@utils/api";
 import { GetStaticProps } from "next";
